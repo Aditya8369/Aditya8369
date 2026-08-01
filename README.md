@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a pre-final year student pursuing my Computer Engineering degree in PVPIT, Pune.
+I am a final year student pursuing my Computer Engineering degree in PVPIT, Pune.
 
 
 ## 🌐 Socials:
