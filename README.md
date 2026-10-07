@@ -29,6 +29,4 @@ I am final year CSE student studying at Padmabhooshan Vasantdada Patil Institute
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-
 
