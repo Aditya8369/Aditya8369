@@ -12,8 +12,14 @@ I am final year CSE student studying at Padmabhooshan Vasantdada Patil Institute
 ![](https://streak-stats.demolab.com/?user=Aditya8369&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya8369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aditya8369&theme=radical&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 GitHub Stats & Achievements
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya8369&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=Aditya8369&theme=dracula" alt="GitHub Streak" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
